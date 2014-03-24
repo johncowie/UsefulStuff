@@ -10,6 +10,6 @@
 
 ```pwd```
 
-List Files in Directory
+# List Files in Directory
 
 ```ls <options>``` - list files
