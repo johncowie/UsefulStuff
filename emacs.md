@@ -1,5 +1,7 @@
 #Emacs
 
+[Based on this page](http://www.rgrjr.com/emacs/emacs_cheat.html)
+
 ##Cursor Motion
 
 ###Characters
@@ -58,3 +60,5 @@
 - ```C-x s``` Save modified buffers (asks about each)
 - ```C-x b``` Select buffer (prompts for buffer)
 - ```C-x C-b``` List buffers
+
+##Scrolling/Windows
