@@ -27,9 +27,24 @@
 - ```C-x DEL``` delete backward
 
 ###Expressions
+- ```C-M-f``` move forward
+- ```C-M-b``` move backward
+- ```C-M-k``` delete forward
+- ```C-M-DEL``` delete backward
 
 ###Paragraphs
+- ```M-}``` move forward
+- ```M-{``` move backward
 
 ###End/start of line
+- ```C-e``` end of line
+- ```C-a``` start of line
 
 ###End/start of buffer
+- ```M->``` end of buffer
+- ```M-<``` start of buffer  
+
+##Cutting and Pasting
+- ```C-SPC``` Mark one end of region
+- ```C-w``` Cut
+- ```M-w``` Copy
