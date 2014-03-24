@@ -21,6 +21,10 @@
 - ```C-SPC C-a C-w``` delete backward
 
 ###Sentences
+- ```M-a``` move forward
+- ```M-e``` move backward
+- ```M-k``` delete forward
+- ```C-x DEL``` delete backward
 
 ###Expressions
 
