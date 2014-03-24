@@ -50,3 +50,11 @@
 - ```M-w``` Copy
 - ```C-y``` Yank (paste)
 - ```M-y``` Yank next most recently killed
+
+##Files and Buffers
+- ```C-x C-f``` Find file (or create if not there)
+- ```C-x C-s``` Save file
+- ```C-x C-w``` Write file (prompts for new name)
+- ```C-x s``` Save modified buffers (asks about each)
+- ```C-x b``` Select buffer (prompts for buffer)
+- ```C-x C-b``` List buffers
