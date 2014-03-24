@@ -21,3 +21,9 @@
 ```CTRL + SHIFT + F9``` Run caret placed method in debug mode
 
 ```SHIFT + F9``` Run last executed in debug mode
+
+```CMD + N``` Find Class
+
+```CMD + SHIFT + N``` Find File
+
+```CMD + /``` Comment/Uncomment code
