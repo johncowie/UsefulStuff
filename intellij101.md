@@ -13,3 +13,11 @@
 ```CMD + W``` Select expanding areas of code
 
 ```CMD + SHIFT + W``` Select contracting areas of code
+
+```CTRL + SHIFT + F10``` Run caret placed method
+
+```SHIFT + F10``` Run last executed
+
+```CTRL + SHIFT + F9``` Run caret placed method in debug mode
+
+```SHIFT + F9``` Run last executed in debug mode
