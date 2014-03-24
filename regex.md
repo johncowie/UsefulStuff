@@ -42,3 +42,21 @@
 ```\d``` Matches any decimal digit
 
 ```\D``` Matches any non-decimal digit
+
+
+#Examples
+
+##Username
+
+- username can have letters, numbers, underscores and hypens.
+- username must be from 3 to 16 characters long
+
+```^[a-z0-9_-]{3, 16}$```
+
+##Hex
+
+- must be 3 or 6 characters long
+- can include numbers and letters a-f
+- can optionally be prefixed with #
+
+```^#?([a-f0-9]{6}|[a-f0-9]{3})$
