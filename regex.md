@@ -59,4 +59,4 @@
 - can include numbers and letters a-f
 - can optionally be prefixed with #
 
-```^#?([a-f0-9]{6}|[a-f0-9]{3})$
+```^#?([a-f0-9]{6}|[a-f0-9]{3})$```
