@@ -27,3 +27,7 @@
 ###Sym link
 
 ```ln -s <source-file> <sym-file>``` - create a symbolic link to a file location
+
+###Clear
+
+```clear``` - clear terminal window
