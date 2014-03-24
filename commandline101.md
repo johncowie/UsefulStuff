@@ -8,7 +8,7 @@
 
 #Print Working Directory
 
-```pwd ```
+```pwd ``` - prints the full path of the current directory
 
 #List Files in Directory
 
