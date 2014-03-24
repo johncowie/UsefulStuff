@@ -1,27 +1,31 @@
 #Emacs
 
-#Cursor Motion
+##Cursor Motion
 
-##Characters
+###Characters
 - ```C-f``` move forward
 - ```C-b``` move backward
 - ```C-d``` delete forward
 - ```DEL``` delete backward
 
-##Words
+###Words
 - ```M-f``` move forward
 - ```M-b``` move backward
 - ```M-d``` delete forward
 - ```M-DEL``` delete backward
 
-##Lines
+###Lines
+- ```C-n``` move forward
+- ```C-p``` move backward
+- ```C-k``` delete forward
+- ```C-SPC C-a C-w``` delete backward
 
-##Sentences
+###Sentences
 
-##Expressions
+###Expressions
 
-##Paragraphs
+###Paragraphs
 
-##End/start of line
+###End/start of line
 
-##End/start of buffer
+###End/start of buffer

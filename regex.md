@@ -46,17 +46,27 @@
 
 #Examples
 
-##Username
+###Username
 
-- username can have letters, numbers, underscores and hypens.
+- username can have letters, numbers, underscores and hyphens.
 - username must be from 3 to 16 characters long
 
-```^[a-z0-9_-]{3, 16}$```
+``` ^[a-z0-9_-]{3, 16}$ ```
 
-##Hex
+###Hex
 
 - must be 3 or 6 characters long
 - can include numbers and letters a-f
 - can optionally be prefixed with #
 
-```^#?([a-f0-9]{6}|[a-f0-9]{3})$```
+```^#?([a-f0-9]{6}|[a-f0-9]{3})$ ```
+
+###Email
+
+- first part can have numbers, letters, underscores, hyphens and dots
+- username part is followed by @ symbol
+- second part can also have numbers, letters, underscors, hyphens, dots
+- then followed by domain suffix that can be 2 to 6 letters, and can include dots (e.g. co.uk)
+
+
+``` ^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$ ```

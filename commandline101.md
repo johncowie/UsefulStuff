@@ -1,4 +1,4 @@
-#Change Directory
+##Change Directory
 
 ```cd <directory>``` - change to directory
 
@@ -6,10 +6,10 @@
 
 ```cd ..``` - move up a directory
 
-#Print Working Directory
+##Print Working Directory
 
 ```pwd ``` - prints the full path of the current directory
 
-#List Files in Directory
+##List Files in Directory
 
 ```ls <options>``` - list files

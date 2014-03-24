@@ -1,6 +1,6 @@
 #Intellij Shortcuts
 
-```CMD + SHIFT + A``` Show list of available commands
+###Refactoring
 
 ```SHIFT + F6``` Rename
 
@@ -9,6 +9,10 @@
 ```CMD + ALT + N``` Inline
 
 ```CMD + ALT + C``` Extract constant
+
+###Other
+
+```CMD + SHIFT + A``` Show list of available commands
 
 ```CMD + W``` Select expanding areas of code
 
