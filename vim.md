@@ -2,6 +2,8 @@
 
 [Based on this page](http://rtorruellas.com/vim-cheat-sheet/)
 
+[Vim adventures](http://vim-adventures.com/)
+
 ##Cursor
 
 ###Characters

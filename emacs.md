@@ -62,3 +62,5 @@
 - ```C-x C-b``` List buffers
 
 ##Scrolling/Windows
+- ```C-v``` Scroll down (towards the end of the buffer)
+- ```M-v``` Scroll up (towards the beginning of the buffer)
