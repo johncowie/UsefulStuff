@@ -48,3 +48,5 @@
 - ```C-SPC``` Mark one end of region
 - ```C-w``` Cut
 - ```M-w``` Copy
+- ```C-y``` Yank (paste)
+- ```M-y``` Yank next most recently killed
