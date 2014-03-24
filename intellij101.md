@@ -27,3 +27,13 @@
 ```CMD + SHIFT + N``` Find File
 
 ```CMD + /``` Comment/Uncomment code
+
+```CMD + E``` Toggle through open classes
+
+```ALT + Enter``` Show list of available intention actions
+
+```CMD + Y``` Delete current line
+
+```CMD + D``` Duplicate current line
+
+```CMD + Space``` Invoke code completion
