@@ -8,6 +8,7 @@
 
 #Print Working Directory
 
+```pwd```
 
 #List Files in Directory
 
