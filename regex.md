@@ -73,24 +73,44 @@
 
 
 
-#Regex Golf solutions - http://regex.alf.nu/
+##Regex Golf solutions - http://regex.alf.nu/
 
 ###Warmup
 
-```foot*```
+``` foot* ```
 
 ###Anchors
 
-```ick$```
+``` ick$ ```
 
 ###Ranges
 
-```[a-f]{4}```
+``` [a-f]{4} ```
 
 ###Backrefs
 
-```(.{3}).*\1```
+``` (.{3}).*\1 ```
 
 ###Abba
 
 ?
+
+###A man, a plan
+
+###Prime
+
+###Four
+
+###Order
+
+###Triples
+
+###Glob
+
+###Balance
+
+###Powers
+
+###Long count
+
+###Alphabetical
