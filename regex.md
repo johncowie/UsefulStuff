@@ -70,3 +70,27 @@
 
 
 ``` ^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$ ```
+
+
+
+#Regex Golf solutions - http://regex.alf.nu/
+
+###Warmup
+
+```foot*```
+
+###Anchors
+
+```ick$```
+
+###Ranges
+
+```[a-f]{4}```
+
+###Backrefs
+
+```(.{3}).*\1```
+
+###Abba
+
+?

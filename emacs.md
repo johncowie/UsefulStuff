@@ -64,3 +64,30 @@
 ##Scrolling/Windows
 - ```C-v``` Scroll down (towards the end of the buffer)
 - ```M-v``` Scroll up (towards the beginning of the buffer)
+- ```C-M-v``` Scroll other window down
+- ```C-x 1``` One window on current buffer
+- ```C-x 2``` Split window vertically
+- ```C-x 3``` Split window horizontally
+- ```C-x ^``` Grow window vertically; prefix is number of lines
+
+##Command-related
+- ```C-g``` Stop a command in progress
+- ```C-u #``` Prefix numeric arg to next cmd
+
+##Searching/Replacing
+- ```C-s``` Incremental search forward
+- ```C-r``` Incremental search backward
+- ```M-x replace-string RET``` String replace from here to end of buffer; prompts for string and replacement
+- ```M-x query-replace RET``` String replace from here to end of buffer, querying for each occurrence
+
+##Getting Help
+- ```C-h k``` Show command documentation
+- ```C-h a``` Prompts for regex and shows all matching commands
+- ```C-h c``` Show command name on message line
+- ```C-h f``` Describe function - shows documentation in other window
+- ```C-h i``` Info browser, gives access to online documentation
+
+##Miscellaneous
+- ```C-_``` or ```C-x u``` Undo/redo
+- ```C-q``` Quoted insert (even if it is a control or meta character)
+- ```C-x C-c``` Exit emacs

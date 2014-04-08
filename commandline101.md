@@ -1,3 +1,5 @@
+[Thirty Useful Linux Commands](http://www.ucs.cam.ac.uk/docs/leaflets/u5)
+
 ###Change Directory
 
 ```cd <directory>``` - change to directory
@@ -16,6 +18,10 @@
 
 ```rm -r``` - recursive delete (remove directory)
 
+```mkdir <directory-path>``` - make a new directory
+
+```cat <file>``` - displays the contents of the file
+
 ###Print Working Directory
 
 ```pwd ``` - prints the full path of the current directory
@@ -31,3 +37,9 @@
 ###Clear
 
 ```clear``` - clear terminal window
+
+###Find
+
+``` find <path> -name <pattern>```
+
+e.g. ```find . -name '*.html'```
